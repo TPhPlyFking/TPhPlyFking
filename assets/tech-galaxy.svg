@@ -11,5 +11,5 @@
 <circle cx="450" cy="280" r="70" fill="url(#corona)"><animate attributeName="r" values="62;78;62" dur="4s" repeatCount="indefinite"/></circle>
 <circle cx="450" cy="280" r="40" fill="url(#sun)"/>
 <text x="450" y="287" text-anchor="middle" font-family="Consolas,monospace" font-size="22" font-weight="700" fill="#1e1b4b">&lt;/&gt;</text>
-<text x="450" y="538" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#a5b4fc">auto-generated from 13 repositories  •  closer orbit = used more</text>
+<text x="450" y="538" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#a5b4fc">auto-generated from 14 repositories  •  closer orbit = used more</text>
 </svg>
