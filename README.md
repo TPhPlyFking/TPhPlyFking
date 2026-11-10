@@ -72,6 +72,14 @@ const tranPhat = {
 ### 🚀 Latest Launches <sub><i>(auto-updated)</i></sub>
 
 <!--REPOS:START-->
+| 🪐 Repository | 📝 Description | 💻 Language | ⭐ |
+|---|---|---|---|
+| [Lab01-Cloud](https://github.com/TPhPlyFking/Lab01-Cloud) | — | CSS | 0 |
+| [ilearning-school](https://github.com/TPhPlyFking/ilearning-school) | — | CSS | 0 |
+| [Training-Score-Agents](https://github.com/TPhPlyFking/Training-Score-Agents) | — | Python | 0 |
+| [sendMail](https://github.com/TPhPlyFking/sendMail) | — | Java | 0 |
+| [java-mvc-email-list-web-week1](https://github.com/TPhPlyFking/java-mvc-email-list-web-week1) | — | Java | 0 |
+| [TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP](https://github.com/TPhPlyFking/TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP) | Group 12 Final Project | C++ | 0 |
 <!--REPOS:END-->
 
 ---
