@@ -158,19 +158,15 @@ const tranPhat = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TPhPlyFking&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
-
 ## 🛰️ Mission Control — GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TPhPlyFking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0820&title_color=c4b5fd&icon_color=67e8f9&text_color=e0e7ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPhPlyFking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0820&title_color=c4b5fd&icon_color=67e8f9&text_color=e0e7ff" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TPhPlyFking&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TPhPlyFking&theme=radical" />
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TPhPlyFking&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TPhPlyFking&theme=radical&utcOffset=7" />
 </p>
 
 <p align="center">
