@@ -32,6 +32,10 @@ const tranPhat = {
 };
 ```
 
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="terminal" />
+</p>
+
 ---
 
 ## 🛸 Tech Stack
@@ -72,14 +76,6 @@ const tranPhat = {
 ### 🚀 Latest Launches <sub><i>(auto-updated)</i></sub>
 
 <!--REPOS:START-->
-| 🪐 Repository | 📝 Description | 💻 Language | ⭐ |
-|---|---|---|---|
-| [Lab01-Cloud](https://github.com/TPhPlyFking/Lab01-Cloud) | — | CSS | 0 |
-| [ilearning-school](https://github.com/TPhPlyFking/ilearning-school) | — | CSS | 0 |
-| [Training-Score-Agents](https://github.com/TPhPlyFking/Training-Score-Agents) | — | Python | 0 |
-| [sendMail](https://github.com/TPhPlyFking/sendMail) | — | Java | 0 |
-| [java-mvc-email-list-web-week1](https://github.com/TPhPlyFking/java-mvc-email-list-web-week1) | — | Java | 0 |
-| [TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP](https://github.com/TPhPlyFking/TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP) | Group 12 Final Project | C++ | 0 |
 <!--REPOS:END-->
 
 ---
@@ -164,9 +160,19 @@ const tranPhat = {
 
 </details>
 
+### ✧ Project Constellation <sub><i>(auto-updated)</i></sub>
+
+<p align="center">
+  <img src="./assets/constellation.svg" width="100%" alt="constellation" />
+</p>
+
 ---
 
-## 🛰️ Mission Control — GitHub Stats
+## 🛰️ Mission Control <sub><i>(live data, auto-updated)</i></sub>
+
+<p align="center">
+  <img src="./assets/hud.svg" width="100%" alt="HUD" />
+</p>
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TPhPlyFking&theme=radical" />
@@ -185,18 +191,14 @@ const tranPhat = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TPhPlyFking&theme=tokyonight" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TPhPlyFking&bg_color=0a0820&title_color=c4b5fd&icon_color=67e8f9&text_color=e0e7ff&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
 ---
 
-## ☄️ Contribution Snake
+## 👾 Pac-Man Eats My Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TPhPlyFking/TPhPlyFking/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/TPhPlyFking/TPhPlyFking/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TPhPlyFking/TPhPlyFking/output/pacman-contribution-graph-dark.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TPhPlyFking/TPhPlyFking/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
