@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="30" viewBox="0 0 880 30">
+<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset="0.5" stop-color="#7c3aed" stop-opacity="0.7"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient>
+<linearGradient id="c" x1="1" x2="0"><stop offset="0" stop-color="#fff"/><stop offset="0.3" stop-color="#67e8f9"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="14" width="880" height="1.5" fill="url(#d)"/>
+<g><rect x="-90" y="13" width="90" height="3.5" rx="2" fill="url(#c)"/><circle cx="0" cy="14.8" r="3" fill="#fff"/>
+<animateTransform attributeName="transform" type="translate" values="-20 0;900 0" dur="3.5s" repeatCount="indefinite"/></g>
+<g font-size="12" fill="#c4b5fd"><text x="433" y="19">✦</text><text x="410" y="19" opacity="0.5">·</text><text x="462" y="19" opacity="0.5">·</text></g>
+</svg>

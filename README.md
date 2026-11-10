@@ -1,4 +1,3 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="./assets/cosmic-banner.svg" width="100%" alt="Trần Phát" />
 </p>
@@ -15,95 +14,58 @@
   <a href="https://github.com/TPhPlyFking?tab=repositories"><img src="https://img.shields.io/badge/Repositories-13+-a78bfa?style=for-the-badge&logo=github" alt="repos" /></a>
 </p>
 
----
+<p align="center"><img src="./assets/ui/divider.svg" width="100%" /></p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
-
-```js
-const tranPhat = {
-  role:        "Frontend Developer",
-  school:      "HCMC University of Technology and Engineering (HCMUTE)",
-  faculty:     "Information Technology",
-  location:    "Ho Chi Minh City, Vietnam 🇻🇳",
-  focus:       ["Frontend Web", "UI / UX", "Full-stack Java Web"],
-  exploring:   ["AI with Python (RAG, Agents, MCP)", "Game Dev with Unity 6"],
-  learning:    ["OOP in Java", "Cloud Computing", "Information Security"],
-  motto:       "Code clean, learn fast, ship things that look good ✨",
-};
-```
+<p align="center"><img src="./assets/ui/title-about.svg" width="100%" /></p>
 
 <p align="center">
   <img src="./assets/terminal.svg" width="100%" alt="terminal" />
 </p>
 
----
+<table align="center">
+  <tr>
+    <td align="center">🎓<br/><b>HCMUTE</b><br/><sub>Faculty of IT</sub></td>
+    <td align="center">🎨<br/><b>Frontend</b><br/><sub>React · UI / UX</sub></td>
+    <td align="center">🤖<br/><b>Exploring AI</b><br/><sub>RAG · Agents · MCP</sub></td>
+    <td align="center">🎮<br/><b>Game Dev</b><br/><sub>Unity 6 · 3D</sub></td>
+    <td align="center">📍<br/><b>Ho Chi Minh City</b><br/><sub>Vietnam</sub></td>
+  </tr>
+</table>
 
-## 🛸 Tech Stack
+<p align="center"><img src="./assets/ui/divider.svg" width="100%" /></p>
 
-<h3 align="center">🎨 Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma&perline=8" />
-</p>
+<p align="center"><img src="./assets/ui/title-stack.svg" width="100%" /></p>
 
-<h3 align="center">💻 Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,cs&perline=8" />
-</p>
+<table align="center">
+  <tr><td align="right"><b>🎨 Frontend</b></td><td><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" /></td></tr>
+  <tr><td align="right"><b>💻 Languages</b></td><td><img src="https://skillicons.dev/icons?i=java,cpp,python,cs" /></td></tr>
+  <tr><td align="right"><b>⚙️ Backend · DB</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,tomcat,postgres" /></td></tr>
+  <tr><td align="right"><b>🎮 Game · AI · Cloud</b></td><td><img src="https://skillicons.dev/icons?i=unity,opencv,aws" /></td></tr>
+  <tr><td align="right"><b>🧰 Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,postman" /></td></tr>
+</table>
 
-<h3 align="center">⚙️ Backend & Database</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,tomcat,postgres&perline=8" />
-</p>
+<p align="center"><img src="./assets/ui/divider.svg" width="100%" /></p>
 
-<h3 align="center">🎮 Game · AI · Cloud</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,opencv,aws&perline=8" />
-</p>
-
-<h3 align="center">🧰 Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,postman&perline=8" />
-</p>
-
----
-
-## 🪐 Language Galaxy <sub><i>(auto-updated every 6 hours)</i></sub>
+<p align="center"><img src="./assets/ui/title-galaxy.svg" width="100%" /></p>
 
 <p align="center">
   <img src="./assets/tech-galaxy.svg" width="100%" alt="Language galaxy" />
 </p>
 
-### 🚀 Latest Launches <sub><i>(auto-updated)</i></sub>
+<p align="center"><img src="./assets/ui/divider.svg" width="100%" /></p>
 
-<!--REPOS:START-->
-| 🪐 Repository | 📝 Description | 💻 Language | ⭐ |
-|---|---|---|---|
-| [Lab01-Cloud](https://github.com/TPhPlyFking/Lab01-Cloud) | — | CSS | 0 |
-| [ilearning-school](https://github.com/TPhPlyFking/ilearning-school) | — | CSS | 0 |
-| [Training-Score-Agents](https://github.com/TPhPlyFking/Training-Score-Agents) | — | Python | 0 |
-| [sendMail](https://github.com/TPhPlyFking/sendMail) | — | Java | 0 |
-| [java-mvc-email-list-web-week1](https://github.com/TPhPlyFking/java-mvc-email-list-web-week1) | — | Java | 0 |
-| [TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP](https://github.com/TPhPlyFking/TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP) | Group 12 Final Project | C++ | 0 |
-<!--REPOS:END-->
-
----
-
-## 🌌 Featured Projects
+<p align="center"><img src="./assets/ui/title-projects.svg" width="100%" /></p>
 
 <table>
   <tr>
-    <td colspan="2" valign="top" align="center">
-      <h2>🦸 MARVEL Vision — Hand Gesture Heroes</h2>
-      <p>Transform into <b>51 characters</b> — 30 Marvel heroes, 12 Marvel villains & 9 DC characters — using <b>only your hand gestures</b> in front of a webcam.<br/>
-      Real-time hand, pose, background segmentation & face tracking, vector effects with bloom glow, and real-time synthesized sound.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-      <img src="https://img.shields.io/badge/Computer_Vision-ED1D24?style=for-the-badge" />
-      <br/><sub>🔒 Private repository</sub>
+    <td width="50%" valign="top">
+      <h3>🦸 MARVEL Vision</h3>
+      <p>Transform into <b>51 characters</b> (30 Marvel heroes, 12 villains, 9 DC) with <b>just your hand gestures</b> on a webcam — real-time hand, pose & face tracking, segmentation, bloom effects and live synthesized sound.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/🔒_Private-555?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🐷 PIG-Simulator</h3>
       <p>Open-world 3D pig-farm game — breed rare pigs, hunting mode, village hub & room-based co-op (2–4 players). Personal project.</p>
@@ -112,6 +74,8 @@ const tranPhat = {
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/TPhPlyFking/ilearning-school">iLearning School</a></h3>
       <p>React frontend for an online learning platform, fully integrated with backend REST APIs.</p>
@@ -119,8 +83,6 @@ const tranPhat = {
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏢 Apartment Selling Website</h3>
       <p>Apartment sale/rental platform for HCMC — listings, property details, posting, viewing appointments & notifications. Deployed on Render.</p>
@@ -129,6 +91,8 @@ const tranPhat = {
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/TPhPlyFking/Training-Score-Agents">Training Score Agent</a></h3>
       <p>AI assistant for student training scores using RAG + Agent + MCP. My role: Data & Retrieval (chunking, hybrid search, evaluation).</p>
@@ -136,8 +100,6 @@ const tranPhat = {
       <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" />
       <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>✋ GestureFlow</h3>
       <p>Real-time hand gesture control for computers. My part: the mouse & keyboard control module.</p>
@@ -162,6 +124,15 @@ const tranPhat = {
   </tr>
 </table>
 
+<p align="center">
+  <img src="./assets/constellation.svg" width="100%" alt="constellation" />
+</p>
+
+<h3 align="center">🚀 Latest Launches <sub><i>(auto-updated)</i></sub></h3>
+
+<!--REPOS:START-->
+<!--REPOS:END-->
+
 <details>
 <summary><b>📦 More C++ / Java projects</b></summary>
 <br>
@@ -175,15 +146,9 @@ const tranPhat = {
 
 </details>
 
-### ✧ Project Constellation <sub><i>(auto-updated)</i></sub>
+<p align="center"><img src="./assets/ui/divider.svg" width="100%" /></p>
 
-<p align="center">
-  <img src="./assets/constellation.svg" width="100%" alt="constellation" />
-</p>
-
----
-
-## 🛰️ Mission Control <sub><i>(live data, auto-updated)</i></sub>
+<p align="center"><img src="./assets/ui/title-control.svg" width="100%" /></p>
 
 <p align="center">
   <img src="./assets/hud.svg" width="100%" alt="HUD" />
@@ -206,9 +171,9 @@ const tranPhat = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TPhPlyFking&theme=tokyonight" width="100%" />
 </p>
 
----
+<p align="center"><img src="./assets/ui/divider.svg" width="100%" /></p>
 
-## 👾 Pac-Man Eats My Contributions
+<p align="center"><img src="./assets/ui/title-pacman.svg" width="100%" /></p>
 
 <p align="center">
   <picture>
@@ -217,15 +182,14 @@ const tranPhat = {
   </picture>
 </p>
 
----
+<p align="center"><img src="./assets/ui/divider.svg" width="100%" /></p>
 
-## 📡 Connect With Me
+<p align="center"><img src="./assets/ui/title-connect.svg" width="100%" /></p>
 
 <p align="center">
   <a href="https://github.com/TPhPlyFking"><img src="https://img.shields.io/badge/GitHub-TPhPlyFking-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0820,50:302b63,100:06b6d4&height=140&section=footer&text=To%20infinity%20and%20beyond%20%F0%9F%9A%80&fontSize=26&fontColor=ffffff&fontAlignY=72" />
 </p>
