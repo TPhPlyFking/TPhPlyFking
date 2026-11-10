@@ -76,14 +76,6 @@ const tranPhat = {
 ### 🚀 Latest Launches <sub><i>(auto-updated)</i></sub>
 
 <!--REPOS:START-->
-| 🪐 Repository | 📝 Description | 💻 Language | ⭐ |
-|---|---|---|---|
-| [Lab01-Cloud](https://github.com/TPhPlyFking/Lab01-Cloud) | — | CSS | 0 |
-| [ilearning-school](https://github.com/TPhPlyFking/ilearning-school) | — | CSS | 0 |
-| [Training-Score-Agents](https://github.com/TPhPlyFking/Training-Score-Agents) | — | Python | 0 |
-| [sendMail](https://github.com/TPhPlyFking/sendMail) | — | Java | 0 |
-| [java-mvc-email-list-web-week1](https://github.com/TPhPlyFking/java-mvc-email-list-web-week1) | — | Java | 0 |
-| [TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP](https://github.com/TPhPlyFking/TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP) | Group 12 Final Project | C++ | 0 |
 <!--REPOS:END-->
 
 ---
@@ -91,6 +83,18 @@ const tranPhat = {
 ## 🌌 Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <h2>🦸 MARVEL Vision — Hand Gesture Heroes</h2>
+      <p>Transform into <b>51 characters</b> — 30 Marvel heroes, 12 Marvel villains & 9 DC characters — using <b>only your hand gestures</b> in front of a webcam.<br/>
+      Real-time hand, pose, background segmentation & face tracking, vector effects with bloom glow, and real-time synthesized sound.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/Computer_Vision-ED1D24?style=for-the-badge" />
+      <br/><sub>🔒 Private repository</sub>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🐷 PIG-Simulator</h3>
