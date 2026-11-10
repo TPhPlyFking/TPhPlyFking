@@ -76,14 +76,6 @@ const tranPhat = {
 ### 🚀 Latest Launches <sub><i>(auto-updated)</i></sub>
 
 <!--REPOS:START-->
-| 🪐 Repository | 📝 Description | 💻 Language | ⭐ |
-|---|---|---|---|
-| [Lab01-Cloud](https://github.com/TPhPlyFking/Lab01-Cloud) | — | CSS | 0 |
-| [ilearning-school](https://github.com/TPhPlyFking/ilearning-school) | — | CSS | 0 |
-| [Training-Score-Agents](https://github.com/TPhPlyFking/Training-Score-Agents) | — | Python | 0 |
-| [sendMail](https://github.com/TPhPlyFking/sendMail) | — | Java | 0 |
-| [java-mvc-email-list-web-week1](https://github.com/TPhPlyFking/java-mvc-email-list-web-week1) | — | Java | 0 |
-| [TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP](https://github.com/TPhPlyFking/TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP) | Group 12 Final Project | C++ | 0 |
 <!--REPOS:END-->
 
 ---
@@ -143,11 +135,6 @@ const tranPhat = {
       <p>Real-time hand gesture control for computers. My part: the mouse & keyboard control module.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔤 <a href="https://github.com/TPhPlyFking/TRIE-BASED-AUTOCOMPLETE-WITH-HASH-MAP">Trie-based Autocomplete</a></h3>
-      <p>Autocomplete engine built on a Trie with hash maps — data structures final project.</p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     </td>
   </tr>
   <tr>
