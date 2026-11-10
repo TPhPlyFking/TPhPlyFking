@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Tr%E1%BA%A7n%20Ph%C3%A1t&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20IT%20Student%20%40%20HCMUTE&descAlignY=62&descSize=20&stroke=8b5cf6&strokeWidth=1" />
+  <img src="./assets/cosmic-banner.svg" width="100%" alt="Trần Phát" />
 </p>
 
 <p align="center">
   <a href="https://github.com/TPhPlyFking">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Xin+ch%C3%A0o!+I'm+Tr%E1%BA%A7n+Ph%C3%A1t+%F0%9F%91%8B;Frontend+Developer+%F0%9F%8E%A8;React+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;Java+%E2%80%A2+C%2B%2B+%E2%80%A2+Python;Building+a+3D+open-world+game+%F0%9F%90%B7;Turning+ideas+into+pixels+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Xin+ch%C3%A0o!+I'm+Tr%E1%BA%A7n+Ph%C3%A1t+%F0%9F%91%8B;Frontend+Developer+%F0%9F%8E%A8;React+%E2%80%A2+JavaScript+%E2%80%A2+HTML+%E2%80%A2+CSS;Java+%E2%80%A2+C%2B%2B+%E2%80%A2+Python;Building+a+3D+open-world+game+%F0%9F%90%B7;Exploring+the+code+universe+%F0%9F%9A%80%F0%9F%8C%8C" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@ const tranPhat = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛸 Tech Stack
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
@@ -63,7 +63,20 @@ const tranPhat = {
 
 ---
 
-## 🚀 Featured Projects
+## 🪐 Language Galaxy <sub><i>(auto-updated every 6 hours)</i></sub>
+
+<p align="center">
+  <img src="./assets/tech-galaxy.svg" width="100%" alt="Language galaxy" />
+</p>
+
+### 🚀 Latest Launches <sub><i>(auto-updated)</i></sub>
+
+<!--REPOS:START-->
+<!--REPOS:END-->
+
+---
+
+## 🌌 Featured Projects
 
 <table>
   <tr>
@@ -148,33 +161,33 @@ const tranPhat = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TPhPlyFking&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TPhPlyFking&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛰️ Mission Control — GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TPhPlyFking&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPhPlyFking&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TPhPlyFking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0820&title_color=c4b5fd&icon_color=67e8f9&text_color=e0e7ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPhPlyFking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0820&title_color=c4b5fd&icon_color=67e8f9&text_color=e0e7ff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TPhPlyFking&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=TPhPlyFking&theme=tokyonight&hide_border=true&background=0A0820&ring=A78BFA&fire=67E8F9&currStreakLabel=C4B5FD" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TPhPlyFking&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TPhPlyFking&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TPhPlyFking&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TPhPlyFking&bg_color=0a0820&title_color=c4b5fd&icon_color=67e8f9&text_color=e0e7ff&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## ☄️ Contribution Snake
 
 <p align="center">
   <picture>
@@ -185,7 +198,7 @@ const tranPhat = {
 
 ---
 
-## 🤝 Connect With Me
+## 📡 Connect With Me
 
 <p align="center">
   <a href="https://github.com/TPhPlyFking"><img src="https://img.shields.io/badge/GitHub-TPhPlyFking-181717?style=for-the-badge&logo=github" /></a>
@@ -193,5 +206,5 @@ const tranPhat = {
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0820,50:302b63,100:06b6d4&height=140&section=footer&text=To%20infinity%20and%20beyond%20%F0%9F%9A%80&fontSize=26&fontColor=ffffff&fontAlignY=72" />
 </p>
