@@ -133,7 +133,7 @@
 <!--REPOS:START-->
 | 🪐 Repository | 📝 Description | 💻 Language | ⭐ |
 |---|---|---|---|
-| [Realtime-Hand-Gesture](https://github.com/TPhPlyFking/Realtime-Hand-Gesture) | — | — | 0 |
+| [Realtime-Hand-Gesture](https://github.com/TPhPlyFking/Realtime-Hand-Gesture) | — | Python | 0 |
 | [Lab01-Cloud](https://github.com/TPhPlyFking/Lab01-Cloud) | — | CSS | 0 |
 | [ilearning-school](https://github.com/TPhPlyFking/ilearning-school) | — | CSS | 0 |
 | [Training-Score-Agents](https://github.com/TPhPlyFking/Training-Score-Agents) | — | Python | 0 |
