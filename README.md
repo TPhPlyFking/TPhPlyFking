@@ -133,12 +133,12 @@
 <!--REPOS:START-->
 | 🪐 Repository | 📝 Description | 💻 Language | ⭐ |
 |---|---|---|---|
+| [Apartments-Selling-Website](https://github.com/TPhPlyFking/Apartments-Selling-Website) | — | PLpgSQL | 0 |
 | [ilearning-school](https://github.com/TPhPlyFking/ilearning-school) | — | JavaScript | 0 |
 | [Realtime-Hand-Gesture](https://github.com/TPhPlyFking/Realtime-Hand-Gesture) | — | Python | 0 |
 | [Lab01-Cloud](https://github.com/TPhPlyFking/Lab01-Cloud) | — | CSS | 0 |
 | [Training-Score-Agents](https://github.com/TPhPlyFking/Training-Score-Agents) | — | Python | 0 |
 | [sendMail](https://github.com/TPhPlyFking/sendMail) | — | Java | 0 |
-| [java-mvc-email-list-web-week1](https://github.com/TPhPlyFking/java-mvc-email-list-web-week1) | — | Java | 0 |
 <!--REPOS:END-->
 
 <details>
