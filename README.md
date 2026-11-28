@@ -133,8 +133,8 @@
 <!--REPOS:START-->
 | 🪐 Repository | 📝 Description | 💻 Language | ⭐ |
 |---|---|---|---|
-| [UI-UCS](https://github.com/TPhPlyFking/UI-UCS) | — | JavaScript | 0 |
 | [ilearning-school](https://github.com/TPhPlyFking/ilearning-school) | — | JavaScript | 0 |
+| [UI-UCS](https://github.com/TPhPlyFking/UI-UCS) | — | JavaScript | 0 |
 | [Training-React](https://github.com/TPhPlyFking/Training-React) | — | JavaScript | 0 |
 | [Apartments-Selling-Website](https://github.com/TPhPlyFking/Apartments-Selling-Website) | — | PLpgSQL | 0 |
 | [Realtime-Hand-Gesture](https://github.com/TPhPlyFking/Realtime-Hand-Gesture) | — | Python | 0 |
